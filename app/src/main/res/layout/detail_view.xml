@@ -217,14 +217,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Name" />
+                            android:text="Parking pass" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
                             android:textColor="#000000"
-                            android:text="Nathan Letourneau" />
+                            android:text="#23-56-76" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -236,14 +236,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Name" />
+                            android:text="Duration" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
                             android:textColor="#000000"
-                            android:text="Nathan Letourneau" />
+                            android:text="2.5 hours" />
                     </LinearLayout>
 
                 </LinearLayout>
@@ -269,14 +269,14 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Name" />
+                                android:text="Vhicule" />
 
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textStyle="bold"
                                 android:textColor="#000000"
-                                android:text="Nathan Letourneau" />
+                                android:text="Dacia sandero" />
                         </LinearLayout>
 
                         <LinearLayout
@@ -288,14 +288,14 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Name" />
+                                android:text="Parking spot" />
 
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textStyle="bold"
                                 android:textColor="#000000"
-                                android:text="Nathan Letourneau" />
+                                android:text="#A-13(F1)" />
                         </LinearLayout>
 
                         <LinearLayout
@@ -307,14 +307,14 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Name" />
+                                android:text="Payment method" />
 
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textStyle="bold"
                                 android:textColor="#000000"
-                                android:text="Nathan Letourneau" />
+                                android:text="Credit card" />
                         </LinearLayout>
 
                     </LinearLayout>
