@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
     @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main) // pour activer la recycle view il faut l'ajouter ici et ligne 56 et 57 décommenter
+        setContentView(R.layout.detail_view) // pour activer la recycle view il faut l'ajouter ici et ligne 56 et 57 décommenter
 
         val booking = listOf(
             generateFakeBooking(),
